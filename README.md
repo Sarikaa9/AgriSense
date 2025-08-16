@@ -1,1 +1,1 @@
-# -AgriSense
+# AgriSense
