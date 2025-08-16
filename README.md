@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # HARVESTIFY 🌿
 #### A simple ML and DL based website which recommends the best crop to grow, fertilizers to use and the diseases caught by your crops.
 
@@ -141,3 +142,6 @@ This project is licensed under [GNU (GENERAL PUBLIC LICENSE)](https://github.com
 ## Contact 📞
 
 #### If you have any doubt or want to contribute feel free to email me or hit me up on [LinkedIn](https://www.linkedin.com/in/atharva-ingle-564430187/)
+=======
+# AgriSense
+>>>>>>> a80450ac11630cb3f1a29da93345006d65eb5bf4
