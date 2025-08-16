@@ -1,9 +1,23 @@
-Data_to_consider/
-References/
-TEST_Project/
-.ipynb_checkpoints/
-.vscode/
+# Byte-compiled / optimized / DLL files
 __pycache__/
-New Plant Diseases Dataset(Augmented)/
-Docs/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+env/
+
+# Data folders you don’t want to push
+Data-raw/
+Data-processed/
+notebooks/
+
+# OS files
 .DS_Store
+Thumbs.db
+
+# Logs
+*.log
+
+# Ignore system folders
+AppData/
